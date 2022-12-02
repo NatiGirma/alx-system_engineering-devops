@@ -1,1 +1,1 @@
-this is project on shell basics
+system devops
